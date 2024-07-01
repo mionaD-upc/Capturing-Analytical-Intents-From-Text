@@ -1,0 +1,11 @@
+# Evaluation of 20240506094228 
+## Classification report: 
+                precision    recall  f1-score   support
+
+    clustering       1.00      0.70      0.82        20
+pattern_mining       0.86      0.90      0.88        20
+    prediction       0.80      1.00      0.89        20
+
+      accuracy                           0.87        60
+     macro avg       0.89      0.87      0.86        60
+  weighted avg       0.89      0.87      0.86        60

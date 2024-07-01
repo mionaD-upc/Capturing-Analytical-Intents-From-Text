@@ -1,0 +1,13 @@
+# Evaluation of 20240508010430 
+## Classification report: 
+                   precision    recall  f1-score   support
+
+anomaly detection       0.70      0.70      0.70        20
+   classification       0.51      0.90      0.65        20
+       clustering       1.00      0.55      0.71        20
+      forecasting       0.95      0.95      0.95        20
+       regression       1.00      0.70      0.82        20
+
+         accuracy                           0.76       100
+        macro avg       0.83      0.76      0.77       100
+     weighted avg       0.83      0.76      0.77       100
