@@ -1,6 +1,6 @@
 # IntentDetect
 
-Capturing Analytical Intents from Text
+This repository supplements the paper **Capturing Analytical Intents from Text**, accepted for the 5th [DOING Workshop](https://www.univ-orleans.fr/lifo/evenements/doing/?page_id=1259) at [ADBIS 2024](https://conferences.sigappfr.org/adbis2024/).
 
 ## Getting started
 
